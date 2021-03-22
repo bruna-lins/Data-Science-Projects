@@ -1,7 +1,7 @@
 # Data-Science-Projects
 Portfólio com projetos de Data Science.
 
-<p align="center">
+<p align="right">
   <img src="https://github.com/bruna-lins/Data-Science-Projects/blob/main/template.jpg?raw=true" >
 </p>
 
