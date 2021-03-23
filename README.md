@@ -16,3 +16,4 @@ de alta qualidade.
 * [Medium](https://medium.com/@brunacalipin)
 
 ## Projetos:
+* Analisando os dados do Airbnb - [Toronto]: https://bityli.com/LtHq9
