@@ -2,7 +2,7 @@
 Portfólio com projetos de Data Science.
 
 <p align="left">
-  <img src="https://github.com/bruna-lins/Data-Science-Projects/blob/main/banner.jpg?raw=true" >
+  <img src="https://github.com/bruna-lins/Data-Science-Projects/blob/main/banner.jpg" >
 </p>
 
 # Bruna Lins
