@@ -6,7 +6,7 @@ Portfólio com projetos de Data Science.
 </p>
 
 # Bruna Lins
-<sub>*Data Scientist Student* </sub>
+<sub>*Data Science Student* </sub>
 
 Bacharel em Biblioteconomia pela Universidade Federal de Pernambuco, inicio os estudos na área de Ciência de Dados buscando unir as experiências das áreas e desenvolver projetos 
 de alta qualidade.
